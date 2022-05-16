@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Leolty
-- 🌱 I’m currently learning software engineering in Wuhan University, China
+- 🌱 I’m currently learning software engineering at Wuhan University, China
+- ⭐ I'm going to pursue a Master's degree of Computer Science at UC San Diego, USA
 - 💞️ I’m really interested in ML, DL, NLP and CV.
 - 📫 Please feel free to contact me at til040@ucsd.edu
 
