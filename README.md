@@ -1,8 +1,8 @@
 ## Tianyang Liu
 
 ### 🎓 
-- Bachelor of Engineering Software Engineering, Wuhan University (WHU), China   
-- Master of Computer Science, University of California San Diego (UCSD), USA
+- Bachelor of Engineering in Software Engineering, Wuhan University (WHU), China   
+- Master of Science in Computer Science, University of California San Diego (UCSD), USA
 
 ### 📧
 - til040@ucsd.edu
