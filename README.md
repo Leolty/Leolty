@@ -16,7 +16,7 @@
 
 ### 
 
-[![Top Langs By Size](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=Leolty&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs By Size](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=Leolty&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 
 
