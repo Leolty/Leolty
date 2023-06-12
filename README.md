@@ -18,6 +18,9 @@
 
 [![Top Langs By Size](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=Leolty&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
 
+### 
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Leolty&rank=-C&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 Leolty/Leolty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
