@@ -12,7 +12,7 @@
 
 ###
 
-[![My GitHub Stats](https://raw.githubusercontent.com/Leolty/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
+![Tianyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leolty&show_icons=true&hide_rank=true)
 
 ### 
 
