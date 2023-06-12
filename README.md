@@ -10,7 +10,13 @@
 ### 💻
 - Click [https://leolty.github.io/](https://leolty.github.io/) to my personal website :)
 
+###
+
 [![Tianyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leolty&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+### 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leolty&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Leolty/Leolty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
