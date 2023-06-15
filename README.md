@@ -1,16 +1,16 @@
-# Tianyang Liu
+## Tianyang Liu
 
-## 🎓 
+### 🎓 
 - Bachelor of Engineering in Software Engineering, Wuhan University (WHU), China   
 - Master of Science in Computer Science, University of California San Diego (UCSD), USA
 
-## 📧
+### 📧
 - til040🌀ucsd.edu
 
-## 💻
+### 💻
 - Click [https://leolty.github.io/](https://leolty.github.io/) to my personal website :)
 
-## 📊
+### 📊
 
 ![Tianyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leolty&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true)
 
