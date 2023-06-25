@@ -28,22 +28,25 @@
 
 <p align="center" style="margin-top: 20px;">
     <a href="https://github.com/Leolty">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leolty&hide_border=true&theme=nord_bright&card_width=680" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leolty&hide_border=true&theme=flag_india&card_width=680" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Leolty">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leolty&theme=nord_bright&utcOffset=-7&card_width=350" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leolty&theme=flag_india&utcOffset=-7&card_width=350" />
     </a>
     <a href="https://github.com/Leolty">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leolty&card_width=350&theme=nord_bright" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leolty&card_width=350&theme=flag_india" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Leolty">
-        <img src="https://github-readme-stats-two-rho-42.vercel.app/api/top-langs/?username=Leolty&count_private=true&langs_count=4&card_width=680&theme=nord_bright" alt="Most Used Languages" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leolty&theme=flag_india&card_width=350" />
+    </a>
+    <a href="https://github.com/Leolty">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leolty&theme=flag_india&card_width=350" />
     </a>
 </p>
 
