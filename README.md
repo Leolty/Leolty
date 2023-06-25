@@ -1,17 +1,27 @@
-## Tianyang Liu
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, guys! </h1>
 
-### 🎓 
-- Bachelor of Engineering in Software Engineering, Wuhan University (WHU), China   
-- Master of Science in Computer Science, University of California San Diego (UCSD), USA
-
-### 📧
-- til040🌀ucsd.edu
-
-### 💻
-- Click [https://leolty.github.io/](https://leolty.github.io/) to my personal website :)
-
-### 📊
-
-![Tianyang's GitHub stats](https://github-readme-stats-two-rho-42.vercel.app/api?username=Leolty&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&card_width=350)
-
-![Top Langs](https://github-readme-stats-two-rho-42.vercel.app/api/top-langs/?username=Leolty&count_private=true&langs_count=9&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages&card_width=350)
+<p align="center">
+    <b>
+        🙋‍♂️ I'm Tianyang Liu.<br>
+    </b>
+    <i>
+        🎓 Currently a Master student at UC San Diego.<br>
+    </i><br>
+    <p align="center">
+        📫 How to reach me:
+    </p>
+    <p align="center">
+      <a href="mailto:til040@ucsd.edu">
+          <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
+      </a>
+      <a href="https://twitter.com/LtyLeoii22">
+          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+      </a>
+      <a href="https://scholar.google.com/citations?user=rJAeYdwAAAAJ&hl=en">
+          <img src="https://img.shields.io/badge/Google Scholar-green?style=for-the-badge&logo=google&logoColor=white" alt="google scholar">
+      </a>
+      <a href="https://www.linkedin.com/in/tianyangliu-whu-ucsd/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </p>
+</p>
