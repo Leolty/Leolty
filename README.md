@@ -12,6 +12,9 @@
 
 
 <p align="center">
+    <a href="https://leolty.github.io/" style="margin-right: 20px;">
+        <img src="https://img.shields.io/badge/Personal_Website-FFC107?style=for-the-badge&logo=aiqfome&logoColor=black" alt="personal website" style="border-radius: 3px;">
+    </a>
     <a href="mailto:til040@ucsd.edu" style="margin-right: 20px;">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" style="border-radius: 3px;">
     </a>
