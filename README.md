@@ -1,17 +1,16 @@
 <h1 align="center">
     <img src="assets/wave.gif" width="35px">
-    <span style="font-family: 'Courier New', Courier, monospace; color: #483D8B;">
+    <span style="font-family: 'Courier New', Courier, monospace;">
         Hi, guys! Welcome to Tianyang Liu's GitHub!
     </span>
 </h1>
 
-<h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #2F4F4F;">
-    🎓 Master's student at UC San Diego
-</h2>
-
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #2F4F4F;">
-    📫 You can reach me through:
+    🎓 I'm a master's student at UC San Diego <br><br>
+    📚 I'm passionate about Natural Language Processing and Machine Learning <br><br>
+    📫 You can contact me through:
 </h3>
+
 
 <p align="center">
     <a href="mailto:til040@ucsd.edu" style="margin-right: 20px;">
@@ -30,25 +29,25 @@
 
 <p align="center" style="margin-top: 20px;">
     <a href="https://github.com/Leolty">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leolty&hide_border=true&theme=vue&card_width=680" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leolty&hide_border=true&theme=nord_bright&card_width=680" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Leolty">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leolty&theme=vue&utcOffset=-7" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leolty&theme=nord_bright&utcOffset=-7&card_width=350" />
     </a>
     <a href="https://github.com/Leolty">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leolty&card_width=340&theme=vue" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leolty&card_width=350&theme=nord_bright" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Leolty">
-        <img src="https://github-readme-stats-two-rho-42.vercel.app/api/top-langs/?username=Leolty&count_private=true&langs_count=4&card_width=680&theme=vue" alt="Most Used Languages" />
+        <img src="https://github-readme-stats-two-rho-42.vercel.app/api/top-langs/?username=Leolty&count_private=true&langs_count=4&card_width=680&theme=nord_bright" alt="Most Used Languages" />
     </a>
 </p>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Leolty&color=blueviolet&style=plastic" alt="profile views">
+    <img src="https://komarev.com/ghpvc/?username=Leolty&color=ff69b4&style=plastic" alt="profile views">
 </p>
