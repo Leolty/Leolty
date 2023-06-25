@@ -1,14 +1,14 @@
 <h1 align="center">
     <img src="assets/wave.gif" width="35px">
     <span style="font-family: 'Courier New', Courier, monospace;">
-        Hi, guys! Welcome to Tianyang Liu's GitHub!
+        Hi, guys! Welcome to Tianyang Liu's GitHub! 🍻
     </span>
 </h1>
 
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #2F4F4F;">
-    🎓 I'm a master's student at UC San Diego <br><br>
-    📚 I'm passionate about Natural Language Processing and Machine Learning <br><br>
-    📫 You can contact me through:
+    🎓 I'm currently pursuing a master's degree in 💻 Computer Science at 🏫 UC San Diego. <br>
+    🔬 My areas of interest lie in 💬 Natural Language Processing and 🤖 Machine Learning. <br><br>
+    📫 If you want to get in touch with me , feel free to reach out through any of these platforms:
 </h3>
 
 
