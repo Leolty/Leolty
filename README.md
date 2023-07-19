@@ -71,3 +71,5 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Leolty&color=FD5E0F&style=for-the-badge" alt="profile views" style="border-radius: 3px;">
 </p>
+
+> This file is generated with the help of [ChatGPT](https://chat.openai.com/) by OpenAI which is actually not open and [Bing Search](https://www.bing.com/#!) by Microsoft.
