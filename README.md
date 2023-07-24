@@ -27,9 +27,7 @@
     <a href="https://www.linkedin.com/in/tianyangliu-whu-ucsd/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 3px;">
     </a>
-</p>
-
-![](https://raw.githubusercontent.com/Leolty/Leolty/main/assets/github-contribution-grid-snake.svg)              
+</p>           
 
 <p align="center" style="margin-top: 20px;">
     <a href="https://github.com/Leolty#gh-light-mode-only">
