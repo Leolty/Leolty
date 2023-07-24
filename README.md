@@ -29,6 +29,8 @@
     </a>
 </p>
 
+![](https://raw.githubusercontent.com/Leolty/Leolty/main/assets/github-contribution-grid-snake.svg)              
+
 <p align="center" style="margin-top: 20px;">
     <a href="https://github.com/Leolty#gh-light-mode-only">
         <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/profile-details?username=Leolty&hide_border=true&theme=flag_india&card_width=680" />
