@@ -46,21 +46,6 @@
     <a href="https://github.com/Leolty#gh-dark-mode-only">
         <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/productive-time?username=Leolty&theme=2077&utcOffset=-7&card_width=350" />
     </a>
-<!--     <a href="https://github.com/Leolty#gh-light-mode-only">
-        <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/stats?username=Leolty&card_width=350&theme=flag_india" />
-    </a>
-    <a href="https://github.com/Leolty#gh-dark-mode-only">
-        <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/stats?username=Leolty&card_width=350&theme=2077" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/Leolty#gh-light-mode-only">
-        <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/repos-per-language?username=Leolty&theme=flag_india&card_width=350" />
-    </a>
-    <a href="https://github.com/Leolty#gh-dark-mode-only">
-        <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/most-commit-language?username=Leolty&theme=2077&card_width=350" />
-    </a> -->
     <a href="https://github.com/Leolty#gh-light-mode-only">
         <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/most-commit-language?username=Leolty&theme=flag_india&card_width=350" />
     </a>
