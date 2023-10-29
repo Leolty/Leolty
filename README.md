@@ -30,6 +30,7 @@
 </p>
         
 
+<!--
 <p align="center" style="margin-top: 20px;">
     <a href="https://github.com/Leolty#gh-light-mode-only">
         <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/profile-details?username=Leolty&hide_border=true&theme=flag_india&card_width=680" />
@@ -53,6 +54,7 @@
         <img src="http://github-profile-summary-cards-two.vercel.app/api/cards/repos-per-language?username=Leolty&theme=2077&card_width=350" />
     </a>
 </p>
+-->
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Leolty&color=FD5E0F&style=for-the-badge" alt="profile views" style="border-radius: 3px;">
