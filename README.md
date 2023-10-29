@@ -6,8 +6,8 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #2F4F4F;">
-    🎓 I'm currently pursuing a master's degree in 💻 Computer Science at 🏫 UC San Diego. <br>
-    🔬 My areas of interest lie in 💬 Natural Language Processing and 🤖 Machine Learning. <br><br>
+    🎓 I'm currently pursuing a master's degree in Computer Science at UC San Diego. <br>
+    🔬 My areas of interest lie in Natural Language Processing and Machine Learning. <br><br>
 </h3>
 
 
