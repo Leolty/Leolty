@@ -3,7 +3,6 @@
 - I'm currently master student at UC San Diego. 
 - I'm interested in NLP.
 
-### More avout me: 🔗
 <p align="center">
     <a href="https://leolty.github.io/" style="margin-right: 20px;">
         <img src="https://img.shields.io/badge/Personal_Website-FFC107?style=for-the-badge&logo=aiqfome&logoColor=black" alt="personal website" style="border-radius: 3px;">
