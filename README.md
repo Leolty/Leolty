@@ -1,6 +1,7 @@
 ### Hi, there! 🍻
 
-- I'm currently master student at UC San Diego. 
+- I'm currently a summer intern at NVIDIA.
+- I'll be returning to UC San Diego this fall to continue my studies as a Ph.D. student in Computer Science, advised by Prof. Julian McAuley.
 - I'm interested in NLP.
 
 <p align="center">
