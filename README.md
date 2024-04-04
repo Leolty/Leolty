@@ -1,7 +1,7 @@
 ### Hi, there! 🍻
 
 - I'm currently a summer intern at NVIDIA.
-- I'll be returning to UC San Diego this fall to continue my studies as a Ph.D. student in Computer Science.
+- I'll be (re)joining UC San Diego this fall as a Ph.D. student in Computer Science.
 - I'm interested in NLP.
 
 <p align="center">
