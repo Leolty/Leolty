@@ -1,8 +1,10 @@
-### Hi, there! 🍻
+### Hi, I'm Tianyang Liu! 👋
 
-- I'm currently a summer intern at NVIDIA in Santa Clara, California.
-- I'll be (re)joining UC San Diego this fall as a Ph.D. student in Computer Science, advised by Prof. Julian McAuley.
-- I'm interested in NLP.
+- 🎓 **Ph.D. Student** in Computer Science at [UC San Diego](https://ucsd.edu)
+- 🧑‍💻 **Advisor:** Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)
+- 💼 **Prev. Intern** at [NVIDIA](https://nvidia.com)
+- 🤖 **Interests:** Natural Language Processing (NLP) - LLMs, Code Generation, and Agent.
+
 
 <p align="center">
     <a href="https://leolty.github.io/" style="margin-right: 20px;">
