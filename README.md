@@ -1,29 +1,16 @@
-### Hi, I'm Tianyang Liu! 👋
+<h1 align="center">
+  <a href="https://leoii22.com" target="_blank" style="text-decoration:none;">🌐 leoii22.com</a>
+</h1>
 
-- 🎓 **Ph.D. Student** in Computer Science at [UC San Diego](https://ucsd.edu)
-- 🧑‍💻 **Advisor:** Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)
-- 💼 **Prev. Intern** at [NVIDIA](https://nvidia.com)
-- 🤖 **Interests:** Natural Language Processing (NLP) - LLMs, Code Generation, and Agent.
-
-
-<p align="center">
-    <a href="https://leoii22.com" style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/Personal_Website-FFC107?style=for-the-badge&logo=aiqfome&logoColor=black" alt="personal website" style="border-radius: 3px;">
-    </a>
-    <a href="mailto:til040@ucsd.edu" style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" style="border-radius: 3px;">
-    </a>
-    <a href="https://twitter.com/LtyLeoii22" style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="border-radius: 3px;">
-    </a>
-    <a href="https://scholar.google.com/citations?user=rJAeYdwAAAAJ&hl=en" style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google scholar" style="border-radius: 3px;">
-    </a>
-    <a href="https://www.linkedin.com/in/tianyangliu-whu-ucsd/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 3px;">
-    </a>
-</p>
-
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Leolty&color=FD5E0F&style=for-the-badge" alt="profile views" style="border-radius: 3px;">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
+    </td>
+    <td align="center" width="47%">
+      <img src="./metrics.plugin.languages.details.svg" alt="Top Languages" width="100%">
+      <br><br>
+      <img src="./metrics.habits.svg"  alt="Coding Habits" width="100%">
+    </td>
+  </tr>
+</table>
