@@ -1,8 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]   # 每日 00:00 UTC 运行
-  workflow_dispatch:               # 允许手动触发
+  schedule: [{cron: "0 0 * * *"}]   # 每日 00:00 UTC 更新
+  workflow_dispatch:               # 手动触发
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
       contents: write
 
     steps:
-      # ---- ① 主页综合图 ----------------------------------------------------
+      # ------------------ ① 综合图（主栏） ------------------
       - name: Core metrics
         uses: lowlighter/metrics@latest
         with:
@@ -21,10 +21,13 @@ jobs:
           config_timezone: America/Los_Angeles
 
           plugin_isocalendar: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_stars: yes
 
           filename: metrics.svg
 
-      # ---- ② 语言统计图 ----------------------------------------------------
+      # ------------------ ② 语言统计 ------------------
       - name: Languages metrics
         uses: lowlighter/metrics@latest
         with:
@@ -34,21 +37,23 @@ jobs:
           plugin_languages: yes
           languages_sections: most-used, recently-used, recently-updated
           languages_limit: 8
-          languages_threshold: 0%
+          languages_details: percentage   # 让图更高
           config_twemoji: yes
 
           filename: metrics.languages.svg
 
-      # ---- ③ 开发习惯图 ----------------------------------------------------
-      - name: Habits metrics
+      # ------------------ ③ Habits 图 ------------------
+      - name: Coding habits metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
           base: ""
-          plugin_habits: yes
-          habits_facts: yes      # 统计习惯概览
-          habits_trim: yes       # 去掉空白行，让图更紧凑
+          plugin_habits: yes              # 启用 Habits
+          plugin_habits_from: 200        # 分析最近 200 次提交
+          plugin_habits_days: 14         # 最近 14 天
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           config_timezone: America/Los_Angeles
 
           filename: metrics.habits.svg
