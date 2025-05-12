@@ -25,9 +25,6 @@ jobs:
 
           # 额外插件
           plugin_isocalendar: yes            # 等距提交日历
-          plugin_achievements: yes           # 个人成就
-          plugin_achievements_threshold: C
-          plugin_stars: yes                  # Star 统计
 
           filename: metrics.svg              # 输出文件名
 
