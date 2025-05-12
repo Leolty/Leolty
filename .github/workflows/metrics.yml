@@ -36,7 +36,8 @@ jobs:
 
           base: ""                           # 只渲染插件，不要基础区块
           plugin_languages: yes
-          languages_sections: most-used
+          languages_sections: most-used, recently-used, recently-updated
+          languages_details: percentage        # 显示百分比，会再占用一些高度
           languages_limit: 8
           languages_threshold: 0%
           config_twemoji: yes
