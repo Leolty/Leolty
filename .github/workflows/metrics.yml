@@ -28,16 +28,13 @@ jobs:
       - name: Languages metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
           base: ""
           plugin_languages: yes
-          languages_sections: most-used, recently-used, recently-updated
-          languages_limit: 10
-          languages_details: percentage 
-          config_twemoji: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
 
-          filename: metrics.languages.svg
 
       # ------------------ ③ Habits 图 ------------------
       - name: Coding habits metrics
